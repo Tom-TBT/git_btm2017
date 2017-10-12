@@ -1,0 +1,5 @@
+/solution/*.txt
+/solution/__pycache__/
+/__pycache__
+clients.txt
+transactions.txt
