@@ -28,7 +28,8 @@ def action_dispatcher(demand):
         func.new_transaction()
     elif demand == 3:
         func.look_credit()
-        
+    
+    
         
 if __name__=="__main__":
    reception()
